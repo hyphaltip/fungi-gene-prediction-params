@@ -85,3 +85,5 @@ See the SNAP paper for more information. [Korf 2004](http://www.biomedcentral.co
 + ustilago_maydis_1r2.length.hmm
 + yarrowia_lipolytica_CLIB122.hmm
 + yarrowia_lipolytica_CLIB122.length.hmm
+JEL142.cegma.hmm
+JEL142.cegma_length.hmm
